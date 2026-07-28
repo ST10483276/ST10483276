@@ -1,4 +1,4 @@
-# Hi there, I'm Jason! 👋
+# Hi there, I'm Jason Barasa 👋
 
 Welcome to my GitHub profile! I'm a computer science student with a deep passion for coding. 
 
@@ -25,8 +25,11 @@ Throughout my studies and projects, I've built up experience with:
 * Expanding my knowledge of database management and cloud development.
 
 ## ⚡ Fun Facts
-* I am a huge music fan and i love listening to most gerne's.
+* I am a huge music fan and I love listening to most genres.
 * I like playing video games like GTA V, Need for Speed & Call of Duty.
 * I'm a big petrol head and usually like German brands (BMWs and Mercedes-Benz).
+
+## 📌 Favorite Projects
+**Check out my pinned repositories below!** These pins highlight some of my favorite projects, showcasing my best work, problem-solving skills, and the progression of my coding journey.
 
 📫 **How to reach me:** Feel free to reach out via email at [Jbarasa2104@gmail.com](mailto:Jbarasa2104@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jason-barasa-001096375/).
